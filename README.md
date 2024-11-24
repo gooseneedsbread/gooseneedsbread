@@ -7,4 +7,6 @@
 
 - 🤝 I’m looking for help with **school (i procrastinate too much)**
 
+<img src="http://invidget.switchblade.xyz/Nya3CnPBn7">
+
 ![goose's GitHub stats](https://github-readme-stats.vercel.app/api?username=gooseneedsbread&show_icons=true&theme=discord_old_blurple)
