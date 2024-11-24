@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cooper</h1>
-<h3 align="center">i lowkey dunno how to code wtf am i on here for</h3>
+<h3 align="center">the hero you dont want and the hero you dont get</h3>
 
 - 🔭 I’m currently working on **nothing (im a lazy bum)**
 
